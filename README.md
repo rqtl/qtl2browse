@@ -3,8 +3,6 @@
 [![R-CMD-check](https://github.com/rqtl/qtl2browse/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/rqtl/qtl2browse/actions/workflows/R-CMD-check.yaml)
 [![r-universe badge](https://rqtl.r-universe.dev/qtl2bioc/badges/version)](https://rqtl.r-universe.dev/qtl2bioc)
 
-[Karl Broman](https://kbroman.org) and [Christian Fischer](https://github.com/chfi)
-
 [R/qtl2browse](https://github.com/rqtl/qtl2browse) is an R package
 to facilitate the use of the [Genetics Genome
 Browser](https://github.com/chfi/purescript-genetics-browser) with
